@@ -1,8 +1,26 @@
-# graphql-api-apollo
-GraphQL API that connects to two data sources: a REST API , fetching data from SpaceX-API, and a SQLite database.  
+<h1 align="center">
+  🚀Space-x GraphQL Api
+</h1>
 
-PLayground available at: 
-https://graphql-api-apollo.herokuapp.com/
+<h1>
+  <img src="public/graphql-api.gif">
+</h1>
+
+## ✔ About
+This project was built via Apollo Documentation as part of my studies. It' a GraphQL API that connects to two data sources: a REST API , fetching data from [SpaceX-API](https://api.spacexdata.com/v2/), and a SQLite database.
+
+🟢 [Playground](https://graphql-api-apollo.herokuapp.com/)
+
+
+---
+## ⚙ Tech
+- JavaScript
+- Node.js
+- GraphQL
+- Apollo
+- SQLite
+
+---
 
 ## Example
 ### Query
